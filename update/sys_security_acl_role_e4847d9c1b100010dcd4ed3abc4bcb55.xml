@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-01 00:21:39</sys_created_on>
+        <sys_id>e4847d9c1b100010dcd4ed3abc4bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.125889.workspace.servicenowtweet.servicenowtweet</sys_name>
+        <sys_package display_value="ServiceNowTweet" source="x_125889_twitter">f31475d81b100010dcd4ed3abc4bcbef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNowTweet">f31475d81b100010dcd4ed3abc4bcbef</sys_scope>
+        <sys_security_acl display_value="x.125889.workspace.servicenowtweet">50847d9c1b100010dcd4ed3abc4bcb40</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e4847d9c1b100010dcd4ed3abc4bcb55</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-01 00:21:39</sys_updated_on>
+        <sys_user_role display_value="servicenowtweet" name="servicenowtweet">60847d9c1b100010dcd4ed3abc4bcb44</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
